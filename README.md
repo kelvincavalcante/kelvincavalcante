@@ -1,5 +1,6 @@
+
+<img = src="https://maisvideos.me/wp-content/uploads/2018/09/bebe-groot-dizendo-ola.gif"> <br>
 Oi! 👋
-<img src="https://maisvideos.me/wp-content/uploads/2018/09/bebe-groot-dizendo-ola.gif">
 Sou Kélvin Cavalcante, entusiasta de tecnologia, iniciante em Dev Full Stack e Bacharel em Ciências Humanas.
 
 ## Quem eu sou? 🤔
