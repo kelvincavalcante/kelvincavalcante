@@ -13,4 +13,4 @@
 
 
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width="631" height="473">
+<img = src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
