@@ -11,6 +11,4 @@
 📸 [Instagram](https://instagram.com/okelvincavalcante) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/kelvincavalcante) <br>
 
-
-
-<img = src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
+<img = src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width="631" height="473">
