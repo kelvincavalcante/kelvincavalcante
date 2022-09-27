@@ -15,5 +15,5 @@ Sou Kélvin Cavalcante, entusiasta de tecnologia, iniciante em Dev Full Stack e 
 🐦 [Twitter](https://twitter.com/kevcavalcante) <br>
 📸 [Instagram](https://instagram.com/okelvincavalcante) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/kelvincavalcante) <br>
-💻 [FreeCodeCamp])https://www.freecodecamp.org/kelvincavalcante_ <br>
+💻 [FreeCodeCamp](https://www.freecodecamp.org/kelvincavalcante) <br>
 
